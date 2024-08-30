@@ -17,4 +17,4 @@ Este projeto é uma calculadora simples desenvolvida com Android Studio utilizan
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/android_calculator.git
+   git clone https://github.com/AnaCezanoski/android_calculator.git
